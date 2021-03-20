@@ -2,6 +2,12 @@
 
 A new Flutter application.
 
+Tried it for learning how to decode JSON FILE.
+
+How to integrate json file with the app and as well as JSON PARSING too.
+
+Great tutorial : https://www.youtube.com/watch?v=bTwTKwK3hGc&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV&index=17&t=178s
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
