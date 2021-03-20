@@ -33,6 +33,7 @@ class _HomePageState extends State<HomePage> {
             loadString('load_json/person.json'),
 
             builder:(context, snapshot){
+              // DECODE THE JSON
                 var myData = JsonDecoder().convert(snapshot.data.toString());
                 return new ListView.builder(itemBuilder:(BuildContext context,int index){
                   return new Card(
