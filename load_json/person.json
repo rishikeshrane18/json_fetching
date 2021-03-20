@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Rishi",
+    "age" : "20",
+    "height": "168",
+    "gender" : "male",
+    "color" : "black"
+  },
+  {
+    "name": "santosh",
+    "age" : "10",
+    "height": "138",
+    "gender" : "male",
+    "color" : "black12"
+  },
+  {
+    "name": "Rishika",
+    "age" : "201",
+    "height": "1682",
+    "gender" : "male",
+    "color" : "black"
+  },
+  {
+    "name": "Rishit",
+    "age" : "27",
+    "height": "162",
+    "gender" : "male",
+    "color" : "green"
+  }
+]
